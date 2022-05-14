@@ -1,0 +1,1 @@
+Simple time series model to forecast monthly sales of champagne 🍾😍
